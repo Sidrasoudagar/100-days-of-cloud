@@ -27,3 +27,18 @@ This repository documents every task I complete — with objectives, steps taken
 - **Containers**: Docker, ECS, EKS
 
 ## 📂 Repository Structure
+```text
+100-days-of-cloud/
+├── Day-01/
+│   ├── README.md
+│   └── keypair-created.png
+└── README.md
+```
+
+
+## 🔗 Connect
+- **LinkedIn**: https://linkedin.com/in/sidrasoudagar
+- **KodeKloud Profile**: https://kodekloud.com/user/sidrasoudagar
+
+---
+*Started: September 2026*
