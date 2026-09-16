@@ -25,7 +25,8 @@ Create an EC2 key pair named `devops-kp` with the RSA key type in the `us-east-1
 - Private key files must be secured with `chmod 400` before SSH use.
 
 ## 🖼️ Screenshot
-![Key Pair Created](./keypair-created.png)
+![Key Pair Created](./<img width="1903" height="775" alt="Screenshot 2026-09-16 154721" src="https://github.com/user-attachments/assets/6dd488ed-374f-41df-814f-1ff1f3b6af7d" />
+)
 
 ## 🔗 Reference
 - Task provided by: [KodeKloud 100 Days of Cloud](https://kodekloud.com/100-days-of-cloud)
