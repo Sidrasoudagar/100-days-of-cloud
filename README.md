@@ -14,7 +14,7 @@ This repository documents every task I complete — with objectives, steps taken
 | Day | Task | AWS Services | Status |
 |-----|------|--------------|--------|
 | 01 | Create an RSA key pair (`devops-kp`) | EC2 | ✅ |
-| 02 | *Coming soon* | – | ⬜ |
+| 02 | Create security group (`datacenter-sg`) | EC2, VPC | ✅ |
 | 03 | *Coming soon* | – | ⬜ |
 
 ## 🛠️ Skills Covered
