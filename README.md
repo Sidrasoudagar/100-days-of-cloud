@@ -15,7 +15,7 @@ This repository documents every task I complete — with objectives, steps taken
 |-----|------|--------------|--------|
 | 01 | Create an RSA key pair (`devops-kp`) | EC2 | ✅ |
 | 02 | Create security group (`datacenter-sg`) | EC2, VPC | ✅ |
-| 03 | *Coming soon* | – | ⬜ |
+| 03 | Create subnet (`devops-subnet`) | VPC | ✅ |
 
 ## 🛠️ Skills Covered
 - **Compute**: EC2, Lambda
@@ -26,14 +26,20 @@ This repository documents every task I complete — with objectives, steps taken
 - **Infrastructure as Code**: CloudFormation, Terraform
 - **Containers**: Docker, ECS, EKS
 
+````markdown
 ## 📂 Repository Structure
 ```text
 100-days-of-cloud/
 ├── Day-01/
 │   ├── README.md
 │   └── keypair-created.png
-└── README.md
-```
+├── Day-02/
+│   ├── README.md
+│   └── sg-inbound-rules.png
+├── Day-03/
+│   ├── README.md
+│   └── devops-subnet.png
+└── README.md (this file)
 
 
 ## 🔗 Connect
