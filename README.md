@@ -17,6 +17,7 @@ This repository documents every task I complete — with objectives, steps taken
 | 02 | Create security group (`datacenter-sg`) | EC2, VPC | ✅ |
 | 03 | Create subnet (`devops-subnet`) | VPC | ✅ |
 | 04 | Enable versioning on S3 (`datacenter-s3-644460639`) | S3 | ✅ |
+| 05 | Create EBS volume (`nautilus-volume`) | EC2 (EBS) | ✅ |
 
 ## 🛠️ Skills Covered
 - **Compute**: EC2, Lambda
@@ -42,6 +43,9 @@ This repository documents every task I complete — with objectives, steps taken
 ├── Day-04/
 │   ├── README.md
 │   └── s3-versioning.png
+├── Day-05/
+│   ├── README.md
+│   └── nautilus-volume.png
 └── README.md (this file)
 ```
 
