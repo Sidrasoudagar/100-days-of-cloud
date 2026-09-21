@@ -18,6 +18,7 @@ This repository documents every task I complete — with objectives, steps taken
 | 03 | Create subnet (`devops-subnet`) | VPC | ✅ |
 | 04 | Enable versioning on S3 (`datacenter-s3-644460639`) | S3 | ✅ |
 | 05 | Create EBS volume (`nautilus-volume`) | EC2 (EBS) | ✅ |
+| 06 | Launch EC2 instance (`xfusion-ec2`) | EC2 | ✅ |
 
 ## 🛠️ Skills Covered
 - **Compute**: EC2, Lambda
@@ -46,6 +47,11 @@ This repository documents every task I complete — with objectives, steps taken
 ├── Day-05/
 │   ├── README.md
 │   └── nautilus-volume.png
+├── Day-06/
+│   ├── README.md
+│   ├── xfusion-kp-keypair.png
+│   ├── xfusion-ec2-launch.png
+│   └── xfusion-ec2-list.png
 └── README.md (this file)
 ```
 
