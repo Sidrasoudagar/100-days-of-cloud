@@ -20,6 +20,14 @@ This repository documents every task I complete — with objectives, steps taken
 | 05 | Create EBS volume (`nautilus-volume`) | EC2 (EBS) | ✅ |
 | 06 | Launch EC2 instance (`xfusion-ec2`) | EC2 | ✅ |
 
+### 🛠️ Terraform Progress
+
+| # | Task | Status |
+|---|------|--------|
+| 1 | Create RSA key pair (`xfusion-kp`) | ✅ |
+| 2 | *Coming soon* | ⬜ |
+| 3 | *Coming soon* | ⬜ |
+
 ## 🛠️ Skills Covered
 - **Compute**: EC2, Lambda
 - **Storage**: S3, EBS
@@ -52,6 +60,10 @@ This repository documents every task I complete — with objectives, steps taken
 │   ├── xfusion-kp-keypair.png
 │   ├── xfusion-ec2-launch.png
 │   └── xfusion-ec2-list.png
+├── Terraform/
+│   ├── README.md
+│   ├── main.tf
+│   └── terraform-task1.png
 └── README.md (this file)
 ```
 
