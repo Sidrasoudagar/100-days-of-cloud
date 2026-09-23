@@ -19,6 +19,7 @@ This repository documents every task I complete — with objectives, steps taken
 | 04 | Enable versioning on S3 (`datacenter-s3-644460639`) | S3 | ✅ |
 | 05 | Create EBS volume (`nautilus-volume`) | EC2 (EBS) | ✅ |
 | 06 | Launch EC2 instance (`xfusion-ec2`) | EC2 | ✅ |
+| 07 | Change instance type (`nautilus-ec2` t2.micro → t2.nano) | EC2 | ✅ |
 
 ### 🛠️ Terraform Progress
 
@@ -60,6 +61,9 @@ This repository documents every task I complete — with objectives, steps taken
 │   ├── xfusion-kp-keypair.png
 │   ├── xfusion-ec2-launch.png
 │   └── xfusion-ec2-list.png
+├── Day-07/
+│   ├── README.md
+│   └── nautilus-ec2-rightsized.png
 ├── Terraform/
 │   ├── README.md
 │   ├── main.tf
