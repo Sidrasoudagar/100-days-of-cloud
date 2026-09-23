@@ -20,6 +20,7 @@ This repository documents every task I complete — with objectives, steps taken
 | 05 | Create EBS volume (`nautilus-volume`) | EC2 (EBS) | ✅ |
 | 06 | Launch EC2 instance (`xfusion-ec2`) | EC2 | ✅ |
 | 07 | Change instance type (`nautilus-ec2` t2.micro → t2.nano) | EC2 | ✅ |
+| 08 | Enable stop protection for `datacenter-ec2` | EC2 | ✅ |
 
 ### 🛠️ Terraform Progress
 
@@ -64,6 +65,9 @@ This repository documents every task I complete — with objectives, steps taken
 ├── Day-07/
 │   ├── README.md
 │   └── nautilus-ec2-rightsized.png
+├── Day-08/
+│   ├── README.md
+│   └── datacenter-ec2-stop-protection.png
 ├── Terraform/
 │   ├── README.md
 │   ├── main.tf
