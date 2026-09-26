@@ -31,8 +31,8 @@ Associate the Elastic IP address `nautilus-ec2-eip` with the EC2 instance `nauti
 - The **Reassociation** checkbox is only needed when moving an EIP from one resource to another.
 
 ## 🖼️ Screenshot
-![Elastic IP Attached](./nautilus-ec2-eip-attached.png)
 ![Allocate Elastic IP Address](./Allocate-Elastic-IP-address.png)
+![Elastic IP Attached](./nautilus-ec2-eip-attached.png)
 
 ## 🔗 Reference
 - Task provided by: [KodeKloud 100 Days of Cloud](https://kodekloud.com/100-days-of-cloud)
