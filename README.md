@@ -21,6 +21,8 @@ This repository documents every task I complete — with objectives, steps taken
 | 06 | Launch EC2 instance (`xfusion-ec2`) | EC2 | ✅ |
 | 07 | Change instance type (`nautilus-ec2` t2.micro → t2.nano) | EC2 | ✅ |
 | 08 | Enable stop protection for `datacenter-ec2` | EC2 | ✅ |
+| 09 | Enable termination protection for `devops-ec2` | EC2 | ✅ |
+| 10 | Attach Elastic IP (`nautilus-ec2-eip`) to `nautilus-ec2` | EC2 (EIP) | ✅ |
 
 ### 🛠️ Terraform Progress
 
@@ -68,6 +70,13 @@ This repository documents every task I complete — with objectives, steps taken
 ├── Day-08/
 │   ├── README.md
 │   └── datacenter-ec2-stop-protection.png
+├── Day-09/
+│   ├── README.md
+│   └── devops-ec2-termination-protection.png
+├── Day-10/
+│   ├── README.md
+│   ├── Allocate-Elastic-IP-address.png
+│   └── nautilus-ec2-eip-attached.png
 ├── Terraform/
 │   ├── README.md
 │   ├── main.tf
