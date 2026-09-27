@@ -23,6 +23,7 @@ This repository documents every task I complete — with objectives, steps taken
 | 08 | Enable stop protection for `datacenter-ec2` | EC2 | ✅ |
 | 09 | Enable termination protection for `devops-ec2` | EC2 | ✅ |
 | 10 | Attach Elastic IP (`nautilus-ec2-eip`) to `nautilus-ec2` | EC2 (EIP) | ✅ |
+| 11 | Attach ENI (`devops-eni`) to `devops-ec2` | EC2 (ENI) | ✅ |
 
 ### 🛠️ Terraform Progress
 
@@ -77,6 +78,9 @@ This repository documents every task I complete — with objectives, steps taken
 │   ├── README.md
 │   ├── Allocate-Elastic-IP-address.png
 │   └── nautilus-ec2-eip-attached.png
+├── Day-11/
+│   ├── README.md
+│   └── devops-eni-attached.png
 ├── Terraform/
 │   ├── README.md
 │   ├── main.tf
