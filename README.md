@@ -26,6 +26,7 @@ This repository documents every task I complete — with objectives, steps taken
 | 11 | Attach ENI (`devops-eni`) to `devops-ec2` | EC2 (ENI) | ✅ |
 | 12 | Attach EBS volume (`datacenter-volume`) to `datacenter-ec2` | EC2 (EBS) | ✅ |
 | 13 | Create AMI (`datacenter-ec2-ami`) from `datacenter-ec2` | EC2 (AMI) | ✅ |
+| 14 | Terminate EC2 instance (`devops-ec2`) | EC2 | ✅ |
 
 ### 🛠️ Terraform Progress
 
@@ -86,10 +87,13 @@ This repository documents every task I complete — with objectives, steps taken
 ├── Day-12/
 │   ├── README.md
 │   └── datacenter-volume-attached.png
-Day-13/
-├── README.md
-├── datacenter-ec2-ami-creation.png
-└── datacenter-ec2-ami-available.png
+├── Day-13/
+│   ├── README.md
+│   ├── datacenter-ec2-ami-creation.png
+│   └── datacenter-ec2-ami-available.png
+├── Day-14/
+│   ├── README.md
+│   └── devops-ec2-terminated.png
 ├── Terraform/
 │   ├── README.md
 │   ├── main.tf
