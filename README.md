@@ -24,6 +24,8 @@ This repository documents every task I complete — with objectives, steps taken
 | 09 | Enable termination protection for `devops-ec2` | EC2 | ✅ |
 | 10 | Attach Elastic IP (`nautilus-ec2-eip`) to `nautilus-ec2` | EC2 (EIP) | ✅ |
 | 11 | Attach ENI (`devops-eni`) to `devops-ec2` | EC2 (ENI) | ✅ |
+| 12 | Attach EBS volume (`datacenter-volume`) to `datacenter-ec2` | EC2 (EBS) | ✅ |
+| 13 | Create AMI (`datacenter-ec2-ami`) from `datacenter-ec2` | EC2 (AMI) | ✅ |
 
 ### 🛠️ Terraform Progress
 
@@ -81,6 +83,13 @@ This repository documents every task I complete — with objectives, steps taken
 ├── Day-11/
 │   ├── README.md
 │   └── devops-eni-attached.png
+├── Day-12/
+│   ├── README.md
+│   └── datacenter-volume-attached.png
+Day-13/
+├── README.md
+├── datacenter-ec2-ami-creation.png
+└── datacenter-ec2-ami-available.png
 ├── Terraform/
 │   ├── README.md
 │   ├── main.tf
