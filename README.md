@@ -27,6 +27,7 @@ This repository documents every task I complete — with objectives, steps taken
 | 12 | Attach EBS volume (`datacenter-volume`) to `datacenter-ec2` | EC2 (EBS) | ✅ |
 | 13 | Create AMI (`datacenter-ec2-ami`) from `datacenter-ec2` | EC2 (AMI) | ✅ |
 | 14 | Terminate EC2 instance (`devops-ec2`) | EC2 | ✅ |
+| 15 | Create snapshot (`nautilus-vol-ss`) from `nautilus-vol` | EC2 (EBS Snapshot) | ✅ |
 
 ### 🛠️ Terraform Progress
 
@@ -94,6 +95,9 @@ This repository documents every task I complete — with objectives, steps taken
 ├── Day-14/
 │   ├── README.md
 │   └── devops-ec2-terminated.png
+├── Day-15/
+│   ├── README.md
+│   └── nautilus-vol-ss.png
 ├── Terraform/
 │   ├── README.md
 │   ├── main.tf
