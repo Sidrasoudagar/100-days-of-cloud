@@ -28,6 +28,7 @@ This repository documents every task I complete — with objectives, steps taken
 | 13 | Create AMI (`datacenter-ec2-ami`) from `datacenter-ec2` | EC2 (AMI) | ✅ |
 | 14 | Terminate EC2 instance (`devops-ec2`) | EC2 | ✅ |
 | 15 | Create snapshot (`nautilus-vol-ss`) from `nautilus-vol` | EC2 (EBS Snapshot) | ✅ |
+| 16 | Create IAM user (`iamuser_yousuf`) | IAM | ✅ |
 
 ### 🛠️ Terraform Progress
 
@@ -98,6 +99,9 @@ This repository documents every task I complete — with objectives, steps taken
 ├── Day-15/
 │   ├── README.md
 │   └── nautilus-vol-ss.png
+├── Day-16/
+│   ├── README.md
+│   └── iamuser_yousuf.png
 ├── Terraform/
 │   ├── README.md
 │   ├── main.tf
