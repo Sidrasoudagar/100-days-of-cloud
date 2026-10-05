@@ -31,6 +31,7 @@ This repository documents every task I complete — with objectives, steps taken
 | 16 | Create IAM user (`iamuser_yousuf`) | IAM | ✅ |
 | 17 | Create IAM group (`iamgroup_ravi`) | IAM | ✅ |
 | 18 | Create IAM policy (`iampolicy_mariyam`) | IAM | ✅ |
+| 19 | Attach IAM policy (`iampolicy_jim`) to `iamuser_jim` | IAM | ✅ |
 
 ### 🛠️ Terraform Progress
 
@@ -110,6 +111,9 @@ This repository documents every task I complete — with objectives, steps taken
 ├── Day-18/
 │   ├── README.md
 │   └── iampolicy_mariyam.png
+├── Day-19/
+│   ├── README.md
+│   └── iamuser_jim-policy-attached.png
 ├── Terraform/
 │   ├── README.md
 │   ├── main.tf
