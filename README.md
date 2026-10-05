@@ -30,6 +30,7 @@ This repository documents every task I complete — with objectives, steps taken
 | 15 | Create snapshot (`nautilus-vol-ss`) from `nautilus-vol` | EC2 (EBS Snapshot) | ✅ |
 | 16 | Create IAM user (`iamuser_yousuf`) | IAM | ✅ |
 | 17 | Create IAM group (`iamgroup_ravi`) | IAM | ✅ |
+| 18 | Create IAM policy (`iampolicy_mariyam`) | IAM | ✅ |
 
 ### 🛠️ Terraform Progress
 
@@ -106,6 +107,9 @@ This repository documents every task I complete — with objectives, steps taken
 ├── Day-17/
 │   ├── README.md
 │   └── iamgroup_ravi.png
+├── Day-18/
+│   ├── README.md
+│   └── iampolicy_mariyam.png
 ├── Terraform/
 │   ├── README.md
 │   ├── main.tf
