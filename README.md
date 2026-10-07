@@ -33,6 +33,7 @@ This repository documents every task I complete — with objectives, steps taken
 | 18 | Create IAM policy (`iampolicy_mariyam`) | IAM | ✅ |
 | 19 | Attach IAM policy (`iampolicy_jim`) to `iamuser_jim` | IAM | ✅ |
 | 20 | Create IAM role (`iamrole_rose`) for EC2 | IAM | ✅ |
+| 21 | Launch EC2 (`nautilus-ec2`) and associate EIP (`nautilus-eip`) | EC2 (EIP) | ✅ |
 
 ### 🛠️ Terraform Progress
 
@@ -118,6 +119,9 @@ This repository documents every task I complete — with objectives, steps taken
 ├── Day-20/
 │   ├── README.md
 │   └── iamrole_rose.png
+├── Day-20/
+│   ├── README.md
+│   └── nautilus-eip-attached.png
 ├── Terraform/
 │   ├── README.md
 │   ├── main.tf
