@@ -34,6 +34,7 @@ This repository documents every task I complete — with objectives, steps taken
 | 19 | Attach IAM policy (`iampolicy_jim`) to `iamuser_jim` | IAM | ✅ |
 | 20 | Create IAM role (`iamrole_rose`) for EC2 | IAM | ✅ |
 | 21 | Launch EC2 (`nautilus-ec2`) and associate EIP (`nautilus-eip`) | EC2 (EIP) | ✅ |
+| 22 | Configure passwordless SSH for `root` on `datacenter-ec2` | EC2 | ✅ |
 
 ### 🛠️ Terraform Progress
 
@@ -122,6 +123,9 @@ This repository documents every task I complete — with objectives, steps taken
 ├── Day-20/
 │   ├── README.md
 │   └── nautilus-eip-attached.png
+├── Day-22/
+│   ├── README.md
+│   └── datacenter-ec2-ssh-root.png
 ├── Terraform/
 │   ├── README.md
 │   ├── main.tf
