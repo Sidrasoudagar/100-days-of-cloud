@@ -35,6 +35,7 @@ This repository documents every task I complete — with objectives, steps taken
 | 20 | Create IAM role (`iamrole_rose`) for EC2 | IAM | ✅ |
 | 21 | Launch EC2 (`nautilus-ec2`) and associate EIP (`nautilus-eip`) | EC2 (EIP) | ✅ |
 | 22 | Configure passwordless SSH for `root` on `datacenter-ec2` | EC2 | ✅ |
+| 23 | S3 Bucket Data Migration (`devops-s3` → `devops-sync`) | S3 | ✅ |
 
 ### 🛠️ Terraform Progress
 
@@ -126,6 +127,9 @@ This repository documents every task I complete — with objectives, steps taken
 ├── Day-22/
 │   ├── README.md
 │   └── datacenter-ec2-ssh-root.png
+├── Day-23/
+│   ├── README.md
+│   └── s3-migration-verification.png
 ├── Terraform/
 │   ├── README.md
 │   ├── main.tf
