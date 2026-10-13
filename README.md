@@ -37,6 +37,7 @@ This repository documents every task I complete — with objectives, steps taken
 | 22 | Configure passwordless SSH for `root` on `datacenter-ec2` | EC2 | ✅ |
 | 23 | S3 Bucket Data Migration (`devops-s3` → `devops-sync`) | S3 | ✅ |
 | 24 | Application Load Balancer + Target Group setup | EC2 (ALB) | ✅ |
+| 25 | Create CloudWatch alarm (devops-alarm) for CPU | CloudWatch | ✅ |
 
 ### 🛠️ Terraform Progress
 
@@ -137,7 +138,9 @@ This repository documents every task I complete — with objectives, steps taken
 |   ├── devops-tg.png
 |   ├── devops-alb.png
 |   └── devops-ec2.png
-│
+├── Day-25/
+│   ├── README.md
+|   ├── devops-alarm-created.png
 ├── Terraform/
 │   ├── README.md
 │   ├── main.tf
