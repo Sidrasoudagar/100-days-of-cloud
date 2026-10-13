@@ -38,6 +38,7 @@ This repository documents every task I complete — with objectives, steps taken
 | 23 | S3 Bucket Data Migration (`devops-s3` → `devops-sync`) | S3 | ✅ |
 | 24 | Application Load Balancer + Target Group setup | EC2 (ALB) | ✅ |
 | 25 | Create CloudWatch alarm (devops-alarm) for CPU | CloudWatch | ✅ |
+| 26 | Configure EC2 as Nginx web server via User Data | EC2 | ✅ |
 
 ### 🛠️ Terraform Progress
 
@@ -141,6 +142,9 @@ This repository documents every task I complete — with objectives, steps taken
 ├── Day-25/
 │   ├── README.md
 |   ├── devops-alarm-created.png
+├── Day-26/
+│   ├── README.md
+|   ├── xfusion-ec2-nginx.png
 ├── Terraform/
 │   ├── README.md
 │   ├── main.tf
