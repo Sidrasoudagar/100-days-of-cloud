@@ -39,6 +39,8 @@ This repository documents every task I complete — with objectives, steps taken
 | 24 | Application Load Balancer + Target Group setup | EC2 (ALB) | ✅ |
 | 25 | Create CloudWatch alarm (devops-alarm) for CPU | CloudWatch | ✅ |
 | 26 | Configure EC2 as Nginx web server via User Data | EC2 | ✅ |
+| 27 | Configure public VPC with EC2 instance (`nautilus-pub-ec2`) | VPC, EC2 | ✅ |
+| 28 | Create private ECR repository (`nautilus-ecr`) and push Docker image | ECR | ✅ |
 
 ### 🛠️ Terraform Progress
 
@@ -145,6 +147,13 @@ This repository documents every task I complete — with objectives, steps taken
 ├── Day-26/
 │   ├── README.md
 |   ├── xfusion-ec2-nginx.png
+├── Day-27/
+│   ├── README.md
+│   ├── nautilus-pub-ec2-details.png
+│   └── nautilus-public-rt.png
+├── Day-28/
+│   ├── README.md
+│   └── nautilus-ecr-image.png
 ├── Terraform/
 │   ├── README.md
 │   ├── main.tf
