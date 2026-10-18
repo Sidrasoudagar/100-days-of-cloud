@@ -41,6 +41,7 @@ This repository documents every task I complete — with objectives, steps taken
 | 26 | Configure EC2 as Nginx web server via User Data | EC2 | ✅ |
 | 27 | Configure public VPC with EC2 instance (`nautilus-pub-ec2`) | VPC, EC2 | ✅ |
 | 28 | Create private ECR repository (`nautilus-ecr`) and push Docker image | ECR | ✅ |
+| 29 | VPC Peering between Default and Private VPCs | VPC, EC2 | ✅ |
 
 ### 🛠️ Terraform Progress
 
@@ -154,6 +155,9 @@ This repository documents every task I complete — with objectives, steps taken
 ├── Day-28/
 │   ├── README.md
 │   └── nautilus-ecr-image.png
+├── Day-29/
+│   ├── README.md
+│   └── xfusion-vpc-peering-ping.png
 ├── Terraform/
 │   ├── README.md
 │   ├── main.tf
