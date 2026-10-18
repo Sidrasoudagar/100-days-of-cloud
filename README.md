@@ -42,6 +42,7 @@ This repository documents every task I complete — with objectives, steps taken
 | 27 | Configure public VPC with EC2 instance (`nautilus-pub-ec2`) | VPC, EC2 | ✅ |
 | 28 | Create private ECR repository (`nautilus-ecr`) and push Docker image | ECR | ✅ |
 | 29 | VPC Peering between Default and Private VPCs | VPC, EC2 | ✅ |
+| 30 | Configure NAT Instance (`devops-nat-instance`) for private subnet | VPC, EC2, S3 | ✅ |
 
 ### 🛠️ Terraform Progress
 
@@ -158,6 +159,13 @@ This repository documents every task I complete — with objectives, steps taken
 ├── Day-29/
 │   ├── README.md
 │   └── xfusion-vpc-peering-ping.png
+├── Day-30/
+│   ├── README.md
+|   ├── pub-subnet.png
+│   ├── nat-sg.png
+|   ├── nat-iptables-setup.png
+│   └── nat-instance-s3-success.png
+|  
 ├── Terraform/
 │   ├── README.md
 │   ├── main.tf
