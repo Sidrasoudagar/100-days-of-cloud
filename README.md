@@ -43,6 +43,7 @@ This repository documents every task I complete — with objectives, steps taken
 | 28 | Create private ECR repository (`nautilus-ecr`) and push Docker image | ECR | ✅ |
 | 29 | VPC Peering between Default and Private VPCs | VPC, EC2 | ✅ |
 | 30 | Configure NAT Instance (`devops-nat-instance`) for private subnet | VPC, EC2, S3 | ✅ |
+| 31 | Provision private RDS instance (`datacenter-rds`) | RDS | ✅ |
 
 ### 🛠️ Terraform Progress
 
@@ -165,7 +166,9 @@ This repository documents every task I complete — with objectives, steps taken
 │   ├── nat-sg.png
 |   ├── nat-iptables-setup.png
 │   └── nat-instance-s3-success.png
-|  
+├── Day-31/
+│   ├── README.md
+│   └── datacenter-rds-available.png
 ├── Terraform/
 │   ├── README.md
 │   ├── main.tf
