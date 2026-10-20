@@ -44,6 +44,7 @@ This repository documents every task I complete — with objectives, steps taken
 | 29 | VPC Peering between Default and Private VPCs | VPC, EC2 | ✅ |
 | 30 | Configure NAT Instance (`devops-nat-instance`) for private subnet | VPC, EC2, S3 | ✅ |
 | 31 | Provision private RDS instance (`datacenter-rds`) | RDS | ✅ |
+| 32 | RDS Snapshot and Restore (xfusion-snapshot-restore) | RDS | ✅ |
 
 ### 🛠️ Terraform Progress
 
@@ -169,6 +170,9 @@ This repository documents every task I complete — with objectives, steps taken
 ├── Day-31/
 │   ├── README.md
 │   └── datacenter-rds-available.png
+├── Day-32/
+│   ├── README.md
+│   └── xfusion-snapshot-restore.png
 ├── Terraform/
 │   ├── README.md
 │   ├── main.tf
