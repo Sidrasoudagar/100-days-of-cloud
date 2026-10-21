@@ -45,6 +45,7 @@ This repository documents every task I complete — with objectives, steps taken
 | 30 | Configure NAT Instance (`devops-nat-instance`) for private subnet | VPC, EC2, S3 | ✅ |
 | 31 | Provision private RDS instance (`datacenter-rds`) | RDS | ✅ |
 | 32 | RDS Snapshot and Restore (xfusion-snapshot-restore) | RDS | ✅ |
+| 33 | Create Lambda function (`datacenter-lambda`) | Lambda, IAM | ✅ |
 
 ### 🛠️ Terraform Progress
 
@@ -173,6 +174,10 @@ This repository documents every task I complete — with objectives, steps taken
 ├── Day-32/
 │   ├── README.md
 │   └── xfusion-snapshot-restore.png
+├── Day-33/
+│   ├── README.md
+│   ├── datacenter-lambda-test.png
+│   └── lambda-execution-role-created.png
 ├── Terraform/
 │   ├── README.md
 │   ├── main.tf
