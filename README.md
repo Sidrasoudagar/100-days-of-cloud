@@ -46,6 +46,7 @@ This repository documents every task I complete — with objectives, steps taken
 | 31 | Provision private RDS instance (`datacenter-rds`) | RDS | ✅ |
 | 32 | RDS Snapshot and Restore (xfusion-snapshot-restore) | RDS | ✅ |
 | 33 | Create Lambda function (`datacenter-lambda`) | Lambda, IAM | ✅ |
+| 34 | Create Lambda function via CLI (xfusion-lambda-cli) | Lambda, CLI | ✅ |
 
 ### 🛠️ Terraform Progress
 
@@ -178,6 +179,9 @@ This repository documents every task I complete — with objectives, steps taken
 │   ├── README.md
 │   ├── datacenter-lambda-test.png
 │   └── lambda-execution-role-created.png
+├── Day-34/
+│   ├── README.md
+│   └── xfusion-lambda-cli.png
 ├── Terraform/
 │   ├── README.md
 │   ├── main.tf
